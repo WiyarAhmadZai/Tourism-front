@@ -31,7 +31,7 @@ function App() {
       <p className="text-center mt-8 text-gray-500 dark:text-gray-400">
         Click on the Vite and React logos to learn more
       </p>
-      <p className="text-center mt-8 text-blue-500 dark:text-gray-400">
+      <p className="text-center mt-8 text-blue-900 dark:text-gray-400">
         the text should be blue 
       </p>
     </>
