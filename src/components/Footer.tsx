@@ -8,10 +8,10 @@ const Footer: React.FC = () => {
           <div className="col-span-2 md:col-span-1 flex flex-col gap-4">
             <div className="flex items-center gap-2 text-slate-900 dark:text-white">
               <span className="material-symbols-outlined text-primary">public</span>
-              <span className="text-lg font-bold">TravelCo</span>
+              <span className="text-lg font-bold">Tourism Afghanistan</span>
             </div>
             <p className="text-slate-500 dark:text-slate-400 text-sm leading-relaxed">
-              Making your travel dreams a reality with curated tours and exceptional service.
+              Discover the breathtaking beauty and rich cultural heritage of Afghanistan - where ancient history meets stunning landscapes.
             </p>
           </div>
           
@@ -52,7 +52,7 @@ const Footer: React.FC = () => {
         </div>
         
         <div className="border-t border-slate-200 dark:border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center gap-4">
-          <p className="text-slate-400 text-sm">© 2023 TravelCo Inc. All rights reserved.</p>
+          <p className="text-slate-400 text-sm">© 2023 Tourism Afghanistan. All rights reserved.</p>
           <div className="flex gap-6">
             <a className="text-slate-400 text-sm hover:text-slate-600 dark:hover:text-slate-300" href="#">Privacy Policy</a>
             <a className="text-slate-400 text-sm hover:text-slate-600 dark:hover:text-slate-300" href="#">Cookie Policy</a>
