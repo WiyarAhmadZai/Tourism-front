@@ -12,7 +12,7 @@ const Header: React.FC = () => {
               <div className="size-8 flex items-center justify-center text-primary">
                 <span className="material-symbols-outlined text-3xl">public</span>
               </div>
-              <h2 className="text-slate-900 dark:text-white text-xl font-bold leading-tight tracking-[-0.015em]">TravelCo</h2>
+              <h2 className="text-slate-900 dark:text-white text-xl font-bold leading-tight tracking-[-0.015em]">Tourism Afghanistan</h2>
             </div>
             
             <div className="hidden md:flex flex-1 justify-end gap-8">
